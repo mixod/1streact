@@ -3,6 +3,8 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import Headers from './Headers'
 import Navs from './Navs.jsx'
+import About from './About.jsx'
+
 function App() {
  
 
@@ -11,6 +13,8 @@ function App() {
       <div>
           <Headers/>
           <Navs/>
+          <About/>
+          
       </div>
     </>
   )

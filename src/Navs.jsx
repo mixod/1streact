@@ -8,8 +8,8 @@ function Navs() {
          <spam> USER INTERFACE MIXO </spam>
       </div>
       <div className='navsside'>
-        <a href=''>Home</a>
-        <a href=''>Contact Us</a>
+        <a href=''className='sizeoffontinnav'>Home</a>
+        <a href=''className='sizeoffontinnav'>Contact Us</a>
       </div>
     </div>
     <div className='line'>

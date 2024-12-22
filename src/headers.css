@@ -37,3 +37,15 @@ a {
     height: 8px;
     background-color: #871400;
 }
+@media only screen and (min-width: 432px){
+  .line{
+    display: flex;
+    margin-top: 1%;
+    width: 96rem;
+    height: 8px;
+    background-color: #871400;
+}
+.sizeoffontinnav{
+  font-size: large;
+}
+}
