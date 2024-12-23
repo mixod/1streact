@@ -1,12 +1,39 @@
-.normal{
-    background-color: black;
-    color: red;
+body{
+   
+    border: 1px solid black;
+    width: fit-content;
+    padding: 5px;
+    margin: 0%;
+    padding: 0%;
+    margin-top: 10%;
+    margin-left: 40%;
+    padding: 15px;
 }
-.negative{
-    background-color: red;
-    color: black;
+.main{
+    
+    display: flex;
+    flex-direction: column;
+   
 }
-.positive{
-    background-color: green;
-    color: white;
+.operationFlex{
+display: flex;
+justify-content: space-between;
+margin-bottom: 10px;
+}
+.input{
+    display: flex;
+    margin-bottom: 10px;
+    gap: 15px;
+}
+body{
+    box-shadow: 10px 10px 10px 5px rgba(173, 97, 97, 0.479);
+}
+.resultDisplay{
+        border: 1px solid black;
+        display: flex;
+        padding: 15px;
+        margin-bottom: 10px;
+}
+input{
+    width: 65px;
 }
