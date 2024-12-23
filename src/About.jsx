@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 
 function About() {
 
@@ -6,7 +6,7 @@ function About() {
 
     const func =()=>{
          setState(true);
-    }
+    }       
   return (
 <>
     <button onClick={func}>DISPLAY</button>
@@ -20,3 +20,4 @@ function About() {
 }
 
 export default About
+
